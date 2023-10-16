@@ -1,7 +1,7 @@
-# star injection
+# star injection || how to infect .NET Files
 
 ### Usage:
-- download [dnspy]()
+- download [dnspy](https://github.com/dnSpy/dnSpy)
 - drag & drop ur file in dnspy
 - right click ur file
 - go to the entrypoint
