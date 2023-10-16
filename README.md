@@ -1,12 +1,4 @@
-# star injection || how to infect .NET Files
-
-### Usage:
-- download [dnspy](https://github.com/dnSpy/dnSpy)
-- drag & drop ur file in dnspy
-- right click ur file
-- go to the entrypoint
-- edit the class
-- and paste the code inside
+# star injection || CSharp Discord Injection
 
 ```csharp
 using System;
